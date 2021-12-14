@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Free Python Games 2.3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-24 21:25-0300\n"
+"POT-Creation-Date: 2021-09-09 09:39-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -161,5 +161,19 @@ msgstr ""
 msgid ""
 "The test argument to setup.py will download a minimal testing "
 "infrastructure and run the tests."
+msgstr ""
+
+#: ../../development.rst:78
+msgid "Translate"
+msgstr ""
+
+#: ../../development.rst:80
+msgid ""
+"inside the locale/ folder, a <lang> folder must be created manually, for "
+"the ::"
+msgstr ""
+
+#: ../../development.rst:84
+msgid "command to generate the PO files for all langauges."
 msgstr ""
 
